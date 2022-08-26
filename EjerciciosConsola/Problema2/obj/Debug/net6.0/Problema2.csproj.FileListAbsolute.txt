@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\bin\Debug\net6.0\Problema2.exe
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\bin\Debug\net6.0\Problema2.deps.json
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\bin\Debug\net6.0\Problema2.runtimeconfig.json
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\bin\Debug\net6.0\Problema2.dll
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\bin\Debug\net6.0\Problema2.pdb
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.dll
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\refint\Problema2.dll
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.pdb
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\Problema2.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\TP01TL\tp1-2022-Emi912\EjerciciosConsola\Problema2\obj\Debug\net6.0\ref\Problema2.dll
